@@ -1,6 +1,6 @@
 #include <Arduino.h>
 #include <SPI.h>
-#include <U8glib.h>
+#include "U8glibSSD1608.h"
 
 U8GLIB_SSD1608_296x128 u8g(10, 9);
 

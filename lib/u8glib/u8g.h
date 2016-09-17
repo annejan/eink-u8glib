@@ -549,9 +549,6 @@ extern u8g_dev_t u8g_dev_a2_micro_printer_192x720_ds;
 /* u8g_virtual_screen.c  */
 extern u8g_dev_t u8g_dev_vs;
 
-/* GDEH029A1 */
-extern u8g_dev_t u8g_dev_ssd1608_296x128_hw_spi;
-
 /*===============================================================*/
 /* device messages */
 
